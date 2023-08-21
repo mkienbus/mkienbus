@@ -17,8 +17,9 @@ I also received my Bachelor's degree from Colorado State University in Sociology
 |     React | 2 years |
 |     Ruby on Rails | 2 years |
 |     PostgreSQL | 2 years |
-|     TypeScript | 4 months |
-|     Next.js | 4 months |
+|     TypeScript | 5 months |
+|     Next.js | 5 months |
+|     Java | 1 month |
 
 
 
