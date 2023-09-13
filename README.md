@@ -15,11 +15,14 @@ I also received my Bachelor's degree from Colorado State University in Sociology
 |-----:|---------------|
 |     JavaScript | 2 years |
 |     React | 2 years |
+|     CSS * | 2 years |
 |     Ruby on Rails | 2 years |
 |     PostgreSQL | 2 years |
 |     TypeScript | 5 months |
 |     Next.js | 5 months |
 |     Java | 1 month |
+
+<sub>* Includes usage of custom CSS, MUI, and Tailwind</sub>
 
 
 
