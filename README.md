@@ -7,8 +7,10 @@ In March, 2023, I started working as a pro bono developer with the [HUNTwallet](
 
 I also received my Bachelor's degree from Colorado State University in Sociology with a concentration in Criminal Justice in 2014, and I currently work in law enforcement. 
 
+<!-- trophy case is not functioning right now
 ## Trophy Case:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mkienbus&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ## Technical Skills:
 | Language | Experience |
