@@ -20,9 +20,9 @@ I also received my Bachelor's degree from Colorado State University in Sociology
 |     CSS * | 2 years |
 |     Ruby on Rails | 2 years |
 |     PostgreSQL | 2 years |
-|     TypeScript | 7 months |
-|     Next.js | 7 months |
-|     Java | 2 months |
+|     TypeScript | 9 months |
+|     Next.js | 9 months |
+|     Java | 3 months |
 
 <sub>* Includes usage of custom CSS, MUI, and Tailwind</sub>
 
