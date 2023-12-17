@@ -5,7 +5,7 @@ I graduated from a full stack web development course through Flatiron School in 
 
 In March, 2023, I started working as a pro bono developer with the [HUNTwallet](https://www.huntwallet.com/) team. I work primarily with TypeScript, Next.js, and custom CSS to complete ticket items. 
 
-I also received my Bachelor's degree from Colorado State University in Sociology with a concentration in Criminal Justice in 2014, and I currently work in law enforcement. 
+I also received my Bachelor's degree from Colorado State University in Sociology with a concentration in Criminal Justice in 2014, I am an Army Veteran, and I currently work in law enforcement. 
 
 <!-- trophy case is not functioning right now
 ## Trophy Case:
