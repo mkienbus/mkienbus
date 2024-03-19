@@ -17,9 +17,9 @@ I also received my Bachelor's degree from Colorado State University in Sociology
 ## Technical Skills:
 | Language | Experience |
 |-----:|---------------|
-|     JavaScript | 2 years |
-|     React | 2 years |
-|     CSS * | 2 years |
+|     JavaScript | 3 years |
+|     React | 3 years |
+|     CSS * | 3 years |
 |     Ruby on Rails | 2 years |
 |     PostgreSQL | 2 years |
 |     TypeScript | 1 year |
