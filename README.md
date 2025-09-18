@@ -19,15 +19,17 @@ Contributed to ticket completion using **TypeScript, Next.js, and custom CSS**.
 ## 🛠 Technical Experience and Training
 - **Flatiron School – Full Stack Web Development Program** *(April 2022)*  
   Studied **HTML, CSS, JavaScript, React, SQL, PostgreSQL, Sinatra, and Ruby on Rails**.
-| Language | Experience |
-|-----:|---------------|
-|     JavaScript | 4 years |
-|     React | 4 years |
-|     CSS * | 4 years |
-|     TypeScript | 2 years |
-|     Next.js | 2 years |
-|     Ruby on Rails | 2 years |
-|     PostgreSQL | 2 years |
+  
+| Language       | Experience |
+|----------------|------------|
+| JavaScript     | 4 years    |
+| React          | 4 years    |
+| CSS *          | 4 years    |
+| TypeScript     | 2 years    |
+| Next.js        | 2 years    |
+| Ruby on Rails  | 2 years    |
+| PostgreSQL     | 2 years    |
+
 
 <sub>* Includes usage of custom CSS, MUI, and Tailwind CSS</sub>
 
