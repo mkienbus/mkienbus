@@ -4,7 +4,7 @@ I’m a **full-stack developer**, I have a **Bachelor’s degree in Sociology** 
 
 ## 💻 Development Experience
 
-### **Full Stack Developer – PropBox and AllAway**  
+### **Full Stack Developer – PropBox, AllAway, and Savory Institute**  
 *Dec 2024 – Present*  
 Helping develop the application using **TypeScript, React.js, and Tailwind CSS**, based on Figma design specifications.
 
