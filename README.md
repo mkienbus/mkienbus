@@ -4,8 +4,13 @@ I’m a **full-stack developer**, I have a **Bachelor’s degree in Sociology** 
 
 ## 💻 Development Experience
 
+### **Software Developer - Kratos Defense and Security Solutions**
+*June 2026 - Present*
+Develop software for satellites using proprietary language, according to technical specifications provided by the customer.
+Work on internal tools utilizing JavaScript and Powershell scripts.
+
 ### **Full Stack Developer – PropBox, AllAway, and Savory Institute**  
-*Dec 2024 – Present*  
+*Dec 2024 – June 2026*  
 Helping develop the application using **TypeScript, React.js, and Tailwind CSS**, based on Figma design specifications.
 
 ### **Front-End Developer – NovaEdge Technology**  
